@@ -56,7 +56,6 @@
                             <include>${project.build.finalName}.jar</include>
                         </resource>
                     </resources>
-                    <forceTags>true</forceTags>
                 </configuration>
             </plugin>
             <!-- end::plugin[] -->
