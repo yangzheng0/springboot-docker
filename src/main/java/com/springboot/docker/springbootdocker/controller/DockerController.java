@@ -14,6 +14,6 @@ public class DockerController {
 
     @RequestMapping("/docker")
     public String test() {
-        return "docker123";
+        return "docker1";
     }
 }
